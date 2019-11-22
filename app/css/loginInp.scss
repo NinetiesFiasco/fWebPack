@@ -1,0 +1,17 @@
+
+#login{
+    outline: 2px solid green;
+}
+
+#login{
+    td{
+        padding: 5px 15px 5px 15px;
+    }
+    td:first-child{
+        background-color: white;
+        font-weight: bold;
+    }
+    td input[type="text"]{
+        height: 25px;
+    }
+}
